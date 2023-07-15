@@ -1,9 +1,9 @@
 
-*** Microservices task ***
+***Microservices task***
 
-*** A University wants to manage the projects assigned to the students, Please write a microservices application for the same, User stories are given below  **
+***A University wants to manage the projects assigned to the students, Please write a microservices application for the same, User stories are given below***
 
-*** Spring Boot, microservices (use discovery server) , SpringDataJpa JpaRepositories***
+***Spring Boot, microservices (use discovery server) , SpringDataJpa JpaRepositories***
 
 
 **User Stories**
@@ -44,6 +44,7 @@ age: Integer
 IStudentRepository{
 
 // add desired methods
+
 ......
 
 }
@@ -102,6 +103,7 @@ id, age can't be negative, age sgould be between 17 and 22
 // add desired methods
  
  ...
+ 
  }
  
  IProjectService{
