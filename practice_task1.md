@@ -1,7 +1,7 @@
 
 ***Microservices task***
 
-***A University wants to manage the projects assigned to the students, Please write a microservices application for the same, User stories are given below***
+***A University wants to manage the projects assigned to the students, Please write a microservices application for the same, User stories are given below along with basic desired skeleton ***
 
 ***Spring Boot, microservices (use discovery server) , SpringDataJpa JpaRepositories***
 
